@@ -1,5 +1,8 @@
 # Entity Store
 
+
+DEPRECATED. The new library does not use GORM any more and can be found here: https://github.com/gouniverse/entitystore
+
 Saves data in SQL database in a "schemaless" way.
 
 ## Features
